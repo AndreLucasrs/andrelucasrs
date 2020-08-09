@@ -6,7 +6,7 @@
 
 ## Oi! <img src="https://github.com/AndreLucasrs/AndreLucasrs/blob/master/assets/hi.gif" width="22px">
 
-Meu nome é André Lucas, eu sou desenvolvedor e geralmente trabalhando como full stack.
+Meu nome é André Lucas, eu sou desenvolvedor e geralmente trabalhando como Full Stack.
 
 - :computer: Trabalho atualmente com: Java, Spring e Angular.
 - :books: O que estou estudando: Java e Spring :heart:
