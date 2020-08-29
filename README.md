@@ -9,7 +9,14 @@
 Meu nome é André Lucas, eu sou desenvolvedor e geralmente trabalhando como Full Stack.
 
 - :computer: Trabalho atualmente com: Java, Spring e Angular.
-- :books: O que estou estudando: Java e Spring :heart:
+- :books: O que estou estudando: Java e Spring :v:
 - :octocat: [andrelucasrs.github.io](https://andrelucasrs.github.io/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrelucasrs&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=andrelucasrs&theme=onedark&show_icons=true) 
+<table>
+  <tr>
+    <td>
+        <img width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelucasrs&layout=compact&theme=onedark" />
+        <img width="430px" align="center" src="https://github-readme-stats.vercel.app/api?username=andrelucasrs&theme=onedark&show_icons=true" />
+    </td>
+  </tr>
+</table>
