@@ -9,7 +9,7 @@
 Meu nome é André Lucas, eu sou desenvolvedor, atualmente engenheiro de software na TQI.
 
 - :computer: Trabalho atualmente com: Kotlin, Java.
-- :books: O que estou estudando: Kotlin, Reativo, WebFlux ... :v:
+- :books: O que estou estudando: Kotlin, reactive programming, WebFlux ... :v:
 - :octocat: [andrelucasrs.github.io](https://andrelucasrs.github.io/)
 
 <table>
