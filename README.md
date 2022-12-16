@@ -6,7 +6,7 @@
 
 ## Oi! <img src="https://github.com/AndreLucasrs/AndreLucasrs/blob/master/assets/hi.gif" width="22px">
 
-Meu nome é André Lucas, eu sou desenvolvedor, atualmente engenheiro de software na PicPay.
+Meu nome é André Lucas, eu sou desenvolvedor, atualmente engenheiro de software na Mercado Livre.
 
 - :computer: Trabalho atualmente com: ...
 - :books: O que estou estudando:  ... :v:
