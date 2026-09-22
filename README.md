@@ -1,22 +1,15 @@
-# :man_technologist: André Lucas
+# André Lucas
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrelucasrs/)](https://www.linkedin.com/in/andrelucasrs/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-bc2a8d?style=flat-square&labelColor=bc2a8d&logo=Instagram&logoColor=white&link=https://www.instagram.com/andre.lucasrs/)](https://www.instagram.com/andre.lucasrs/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AndreLucasrss)](https://twitter.com/AndreLucasrss)
+Engenheiro de Software Sênior no [Mercado Livre](https://www.mercadolivre.com.br/). Formado em Análise e Desenvolvimento de Sistemas pelo [IFG](https://www.ifg.edu.br/formosa), atuo com desenvolvimento desde 2017 — já passei por PicPay e TQI/PagSeguro, sempre entre backend (Java/Kotlin/Spring Boot) e frontend (JavaScript/TypeScript/React).
 
-## Oi! <img src="https://github.com/AndreLucasrs/AndreLucasrs/blob/master/assets/hi.gif" width="22px">
+[LinkedIn](https://www.linkedin.com/in/andrelucasrs/) · [Portfólio](https://andrelucasrs.github.io/)
 
-Meu nome é André Lucas, eu sou desenvolvedor, atualmente engenheiro de software na Mercado Livre.
+## Projetos em destaque
 
-- :computer: Trabalho atualmente com: ...
-- :books: O que estou estudando:  ... :v:
-- :octocat: [andrelucasrs.github.io](https://andrelucasrs.github.io/)
+- **[aegis4j](https://github.com/AndreLucasrs/aegis4j)** — lib Java/Kotlin de harness para agentes de IA: guardrails, skills com progressive disclosure, RAG, cliente MCP e model routing. Providers e mecanismos construídos do zero, sem depender de framework de IA de terceiro.
+- **[cronos](https://github.com/AndreLucasrs/cronos)** — vitrine funcional do aegis4j: gestão de cronograma usando os 5 pilares da lib (guardrails, skills, RAG, routing, MCP) em fluxos reais, testados de ponta a ponta.
+- **[shine-tecnologia](https://github.com/AndreLucasrs/shine-tecnologia)** — site da minha marca pessoal, Next.js + Tailwind.
 
-<table>
-  <tr>
-    <td>
-        <img width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelucasrs&layout=compact&theme=onedark" />
-        <img width="430px" align="center" src="https://github-readme-stats.vercel.app/api?username=andrelucasrs&theme=onedark&show_icons=true" />
-    </td>
-  </tr>
-</table>
+## Stack
+
+Java · Kotlin · TypeScript · Python · Node.js · Spring Boot · React · Next.js · Kafka · AWS · Docker · Kubernetes · Claude Code
